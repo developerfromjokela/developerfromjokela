@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**developerfromjokela/developerfromjokela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You seem very intrigued with this stuff aren't you?
 
-Here are some ideas to get you started:
+Let me introduce myself, a (perhaps the) programmer from Finland, makes awesome projects, always in hurry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact info
+- Email: `info@developerfromjokela.com`
+
+## Favorite projects:
+- [Wilma Plus](https://github.com/wilmaplus/)
+- [MotionEye Client](https://github.com/developerfromjokela/motioneye-client)
+- [OpenFinna](https://github.com/openfinna)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=developerfromjokela&show_icons=true&theme=merko&count_private=true"/>
+
