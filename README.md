@@ -8,7 +8,7 @@ Other info you may want to know:
 - _Making govnerment-funded (other as well) monopoly services open_
 
 ## Contact info
-- Email: `info@developerfromjokela.com`
+- Email: [info@developerfromjokela.com](mailto:info@developerfromjokela.com)
 
 ## Favorite projects:
 - [Wilma Plus](https://github.com/wilmaplus/)
