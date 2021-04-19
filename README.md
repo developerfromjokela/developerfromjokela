@@ -5,7 +5,7 @@ You seem very intrigued with this stuff aren't you?
 Let me introduce myself, a (perhaps the) programmer from Finland, makes awesome projects, always in hurry.
 Other info you may want to know:
 - _PRO_ reverse-engineer
-- _Making govnerment-funded (other as well) monopoly services open_
+- _Making govnerment-funded (others as well) monopoly services open_
 
 ## Contact info
 - Email: [info@developerfromjokela.com](mailto:info@developerfromjokela.com)
