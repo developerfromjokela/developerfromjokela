@@ -2,7 +2,7 @@
 
 You seem very intrigued with this stuff aren't you?
 
-Let me introduce myself, a (perhaps the) programmer from Finland, makes awesome projects, always in hurry.
+Let me introduce myself, a programmer from Finland, makes awesome projects, always in hurry.
 
 #### Contact info + projects
 - Email: [info@developerfromjokela.com](mailto:info@developerfromjokela.com)
