@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Email: [hello@ruben.fi](mailto:hello@ruben.fi)
+- Email: [info@developerfromjokela.com](mailto:info@developerfromjokela.com)
 - [Testausserveri](https://testausserveri.fi)
 - [Wilsu Plus](https://github.com/wilmaplus/)
 - [MotionEye Client](https://github.com/developerfromjokela/motioneye-client)
